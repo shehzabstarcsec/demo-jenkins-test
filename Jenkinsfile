@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        WEBHOOK_URL = 'https://cleaning-zinc-hardly-exhibition.trycloudflare.com/pipeline/v1/jenkins/webhook'
+        WEBHOOK_URL = 'https://extends-up-nikon-items.trycloudflare.com/pipeline/v1/jenkins/webhook'
         JENKINS_URL = 'http://13.232.153.140:8080'
         JENKINS_ACCESS_TOKEN = "YWRtaW46MTE3OTcyZmRlNzE1Njg1OTkzY2RkNWY2ZDVkOGEwNGZhMg=="
     }
